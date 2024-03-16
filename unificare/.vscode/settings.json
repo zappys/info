@@ -4,6 +4,8 @@
     "ios": "c",
     "charconv": "c",
     "limits": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "string": "cpp",
+    "vector": "cpp"
   }
 }
